@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Corsa Grotesk';
+    src: url('CorsaGrotesk-Medium.eot');
+    src: url('CorsaGrotesk-Medium.eot?#iefix') format('embedded-opentype'),
+        url('CorsaGrotesk-Medium.woff2') format('woff2'),
+        url('CorsaGrotesk-Medium.woff') format('woff'),
+        url('CorsaGrotesk-Medium.ttf') format('truetype'),
+        url('CorsaGrotesk-Medium.svg#CorsaGrotesk-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Corsa Grotesk';
+    src: url('CorsaGrotesk-BoldItalic.eot');
+    src: url('CorsaGrotesk-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('CorsaGrotesk-BoldItalic.woff2') format('woff2'),
+        url('CorsaGrotesk-BoldItalic.woff') format('woff'),
+        url('CorsaGrotesk-BoldItalic.ttf') format('truetype'),
+        url('CorsaGrotesk-BoldItalic.svg#CorsaGrotesk-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Corsa Grotesk';
+    src: url('CorsaGrotesk-Bold.eot');
+    src: url('CorsaGrotesk-Bold.eot?#iefix') format('embedded-opentype'),
+        url('CorsaGrotesk-Bold.woff2') format('woff2'),
+        url('CorsaGrotesk-Bold.woff') format('woff'),
+        url('CorsaGrotesk-Bold.ttf') format('truetype'),
+        url('CorsaGrotesk-Bold.svg#CorsaGrotesk-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
